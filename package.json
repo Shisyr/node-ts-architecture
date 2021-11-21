@@ -2,7 +2,6 @@
   "name": "internet-store",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "start": "ts-node-dev src/index.ts",
     "migration:run": "ts-node ./node_modules/typeorm/cli.js migration:run",
